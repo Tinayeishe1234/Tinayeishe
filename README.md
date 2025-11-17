@@ -41,7 +41,7 @@ Learning more about cloud computing and backend development
 
 📫 Get in Touch
 
-GitHub: your-username
+GitHub: Tinayeishe1234
 
 Email: tinayeishebright@gmail.com 
 
